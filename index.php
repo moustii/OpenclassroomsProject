@@ -1,3 +1,3 @@
 <?php
 
-$burger = 3;
+$hamburger = 3;
